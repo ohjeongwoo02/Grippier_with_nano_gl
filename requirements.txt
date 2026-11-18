@@ -1,0 +1,4 @@
+MechEyeAPI
+numpy
+opencv-python>=4.7,<5  # 5.0 dropped calibrateHandEye
+pymodbus==3.7.4  # 3.16 changed the datastore API
